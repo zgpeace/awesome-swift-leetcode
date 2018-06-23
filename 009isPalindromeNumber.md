@@ -76,4 +76,9 @@ func isPalindromeNumberWihtHalfReverse(_ x: Int) -> Bool {
 
 ## 结语
 
-如果你同我一样热爱数据结构、算法、LeetCode，可以关注我 GitHub 上的 LeetCode 题解：[awesome-swift-leetcode][zgpeace]
+如果你同我一样热爱数据结构、算法、LeetCode，可以关注我 GitHub 上的 LeetCode 题解：[awesome-swfit-leetcode][zgpeace]
+
+[title]: https://leetcode.com/problems/palindrome-number
+[zgpeace]: https://github.com/Blankj/awesome-java-leetcode
+
+
