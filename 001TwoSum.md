@@ -60,6 +60,14 @@ func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
     
     fatalError()
 }
+
+let nums = [2, 7, 11, 15]
+let target = 17
+
+let twoSumResult = twoSum(nums, target)
+if twoSumResult.count == 2 {
+    print("Given nums = [2, 7, 11, 15], target = 9, result: ['\(twoSumResult[0])', '\(twoSumResult[1])']")
+}
 ```
 
 
