@@ -48,6 +48,9 @@ func reverseInteger(_ x: Int) -> Int {
     
     return (result > Int32.max || result < Int32.min) ? 0 : Int(result)
 }
+
+let input = 123
+print(" Input: '\(input)', Output: '\(reverseInteger(input))'")
 ```
 
 
