@@ -71,6 +71,9 @@ func isPalindromeNumberWihtHalfReverse(_ x: Int) -> Bool {
     }
     return copyX == halfReverse || (copyX == halfReverse / 10)
 }
+
+let input = 12210
+print("isPalindromeNumber Input: '\(input)', Output: '\(isPalindromeNumberWihtHalfReverse(input))'")
 ```
 
 
