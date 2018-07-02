@@ -115,3 +115,4 @@ awesome-swfit 是用swift实现另一位java实现的LeetCode算法[awesome-java
 [013]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/013RomanToInteger.md
 [014]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/014LongestCommonPrefix.md
 [020]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/020ValidParentheses.md
+[021]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/021MergeTwoSortedLists.md
