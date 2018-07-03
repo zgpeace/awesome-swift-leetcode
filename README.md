@@ -118,3 +118,5 @@ awesome-swfit 是用swift实现另一位java实现的LeetCode算法[awesome-java
 [021]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/021MergeTwoSortedLists.md
 [026]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/026RemoveDuplicatesFromSortedArray.md
 [027]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/027RemoveElement.md
+[028]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/028ImplementStrStr.md
+
