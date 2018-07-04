@@ -122,3 +122,4 @@ awesome-swfit 是用swift实现另一位java实现的LeetCode算法[awesome-java
 [035]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/035SearchInsertPostion
 [038]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/038CountAndSay.md
 [053]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/053MaximumSubarray.md
+[058]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/058LengthOfLastWord.md
