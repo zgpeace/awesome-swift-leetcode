@@ -136,3 +136,4 @@ awesome-swfit 是用swift实现另一位java实现的LeetCode算法[awesome-java
 [108]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/108ConvertSortedArrayToBinarySearchTree.md
 [110]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/110BalancedBinaryTree.md
 [111]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/111MinimumDepthOfBinaryTree.md
+[112]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/112PathSum.md
