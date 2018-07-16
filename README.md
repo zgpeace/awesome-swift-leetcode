@@ -143,3 +143,4 @@ awesome-swfit 是用swift实现另一位java实现的LeetCode算法[awesome-java
 [122]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/122BestTimeToBuyAndSellStockII.md
 [543]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/543DiameterOfBinaryTree.md
 [002]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/002AddTwoNumbers.md
+[003]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/003LongestSubstringWithoutRepeatingCharacters.md
