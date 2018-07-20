@@ -126,7 +126,7 @@ func longestPalindromeWithDynamic(_ s: String) -> String {
 参考文章 中文： [Manacher 算法及其 Java 实现](https://juejin.im/entry/58c7936944d90400699c2db4)，  
 English：[Manacher's Algorithm explanation and code in Java](http://hanslen.me/2017/07/28/Manacher-s-Algorithm-explanation-and-code-with-java/)
 
-以上问题的传统思路大概是遍历每一个字符，以该字符为中心向两边查找，其时间复杂度为 `O(n^2)`，效率很差。
+传统思路大概是遍历每一个字符，以该字符为中心向两边查找，其时间复杂度为 `O(n^2)`，效率很差。
 
 1975 年，一个叫 Manacher 的人发明了 Manacher 算法（中文名：马拉车算法），该算法可以把时间复杂度提升到 `O(n)`，下面我以我理解的思路来讲解其原理。
 
