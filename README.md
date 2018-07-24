@@ -145,3 +145,4 @@ awesome-swfit 是用swift实现另一位java实现的LeetCode算法[awesome-java
 [002]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/002AddTwoNumbers.md
 [003]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/003LongestSubstringWithoutRepeatingCharacters.md
 [005]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/005LongestPalindromicSubstring.md
+[006]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/006ZigzagConversion.md
