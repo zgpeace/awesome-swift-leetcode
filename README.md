@@ -74,7 +74,7 @@ awesome-swfit 是用swift实现另一位java实现的LeetCode算法[awesome-java
 | 11   | [Container With Most Water][011]         | Array, Two Pointers              |
 | 12   | [Integer to Roman][012]                  | Math, String                     |
 | 15   | [3Sum][015]                              | Array, Two Pointers              |
-| 15   | [3Sum Closest][016]                      | Array, Two Pointers              |
+| 16   | [3Sum Closest][016]                      | Array, Two Pointers              |
 | 17   | [Letter Combinations of a Phone Number][017] | String, Backtracking             |
 | 18   | [4Sum][018]                              | Array, Hash Table, Two Pointers  |
 | 19   | [Remove Nth Node From End of List][019]  | Linked List, Two Pointers        |
@@ -150,3 +150,4 @@ awesome-swfit 是用swift实现另一位java实现的LeetCode算法[awesome-java
 [011]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/011ContainerWithMostWater.md
 [012]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/012IntegerToRoman.md
 [015]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/015ThreeSum.md
+[016]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/016ThreeSumClosest.md
