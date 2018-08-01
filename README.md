@@ -1,7 +1,7 @@
 # awesome-swift-leetcode
 leetcode swift 版本 4.2
 
-awesome-swfit 是用swift实现另一位java实现的LeetCode算法[awesome-java-leetcode](https://raw.githubusercontent.com/Blankj/awesome-java-leetcode)
+awesome-swfit 是用swift实现另一位java实现的LeetCode算法[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
 
 ```
 1,10,13,15,17,20,23,25,26,28,33,38,43,44,49,50,56,57,67,68,69,71,75,76
