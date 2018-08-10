@@ -157,3 +157,4 @@ awesome-swfit 是用swift实现另一位java实现的LeetCode算法[awesome-java
 [022]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/022GenerateParentheses.md
 [024]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/024SwapNodesInPairs.md
 [029]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/029DivideTwoIntegers.md
+[033]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/033SearchInRotatedSortedArray.md
