@@ -161,3 +161,4 @@ awesome-swfit 是用swift实现另一位java实现的LeetCode算法[awesome-java
 [043]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/043MultiplyStrings.md
 [049]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/049GroupAnagrams.md
 [050]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/050Pow.md
+[056]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/056MergeIntervals.md
