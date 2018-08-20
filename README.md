@@ -163,3 +163,5 @@ awesome-swfit 是用swift实现另一位java实现的LeetCode算法[awesome-java
 [050]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/050Pow.md
 [056]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/056MergeIntervals.md
 [554]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/554BrickWall.md
+
+[004]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/004MedianOfTwoSotedArrays.md
