@@ -122,6 +122,6 @@ class Solution {
 
 
 
-[010]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/010RegularExpressionMatching.md
+[010]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/src/010RegularExpressionMatching.md
 [title]: https://leetcode.com/problems/wildcard-matching
 [zgpeace]: https://github.com/zgpeace/awesome-swift-leetcode
