@@ -1,7 +1,7 @@
 # awesome-swift-leetcode
 leetcode swift 版本 4.2
 
-题目为 LeetCode 上 Facebook 的面试题目:
+算法解决题目为 LeetCode 上 Facebook 的面试题目:
 ```
 1,10,13,15,17,20,23,25,26,28,33,38,43,44,49,50,56,57,67,68,69,71,75,76
 78,79,80,85,88,90,91,98,102,117,121,125,127,128,133,139,146,157,158,161
@@ -9,7 +9,7 @@ leetcode swift 版本 4.2
 261,265,269,273,274,275,277,278,282,283,285,286,297,301,311,314,325,334
 341,377,380,398,404,410,461,477,494,523,525,534,535,543,554
 ```
-awesome-swfit 是用swift实现另一位java实现的LeetCode算法[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
+java 实现的代码： [awesome-java-leetcode](https://github.com/zgpeace/awesome-java-leetcode), 更新原有库一些没有实现的算法。  
 
 如果想知道更多公司 LeetCode 面试题，可以参看 [Companies.md][companies]。
 
@@ -22,6 +22,7 @@ awesome-swfit 是用swift实现另一位java实现的LeetCode算法[awesome-java
 > 非也非也，  
 > 科举为国取士，LeetCode 为 Google 筛码工，各取所需也。  
 
+参考： [Blankj/awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
 
 ## Easy
 
