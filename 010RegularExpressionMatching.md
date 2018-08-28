@@ -180,6 +180,6 @@ func isMatchByDynamic(_ s: String, _ p: String) -> Bool {
 
 
 
-[044]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/044/README.md
+[044]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/044WildcardMatching.md
 [title]: https://leetcode.com/problems/regular-expression-matching
 [zgpeace]: https://github.com/zgpeace/awesome-swift-leetcode
