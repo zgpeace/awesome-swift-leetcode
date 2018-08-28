@@ -171,3 +171,4 @@ awesome-swfit 是用swift实现另一位java实现的LeetCode算法[awesome-java
 [030]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/src/030SubstringWithConcatenationOfAllWords.md
 [044]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/src/044WildcardMatching.md
 [057]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/src/057InsertInterval.md
+[068]: https://github.com/zgpeace/awesome-swift-leetcode/blob/master/src/068TestJustification.md
